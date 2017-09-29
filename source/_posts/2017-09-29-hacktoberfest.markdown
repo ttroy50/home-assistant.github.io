@@ -34,7 +34,7 @@ Our participation for [Hacktoberfest 2016][hackt-2016] was a huge success. Join 
 
 [![Hacktober fest logo][logo]][Hacktoberfest]
 
-[logo]: /images/blog/2016-10-hacktoberfest/hacktoberfest.png
+[logo]: /images/blog/2017-09-hacktoberfest/hacktoberfest.png
 [Hacktoberfest]: https://hacktoberfest.digitalocean.com/
 [Hacktoberfest-reg]: https://hacktoberfest.digitalocean.com/sign_up/register
 [issues]: https://github.com/home-assistant/home-assistant/labels/Hacktoberfest
